@@ -1,0 +1,16 @@
+!# bin/bash
+
+
+A = sizing
+B = sizing
+C = sizing
+D = sizing
+E = sizing
+
+until [$A == $B && $A == $C && $A == $D && $A == $E] do
+    $A
+    $B
+    $C
+    $D
+    $E	
+done

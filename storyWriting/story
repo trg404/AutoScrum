@@ -1,0 +1,8 @@
+!# /bin/bash
+
+CUSTOMER=$(rl --count=1 customers)
+DELIVERABLE=$(rl --count=1 deliverables)
+BUSINESSVALUE=$(rl --count=1 businessValues)
+
+
+echo "As a" $CUSTOMER "I'd like" $DELIVERABLE "so that I can" $BUSINESSVALUE

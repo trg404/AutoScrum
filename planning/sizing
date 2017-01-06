@@ -1,0 +1,3 @@
+#! /bin/bash
+
+rl --count=1 sizes
