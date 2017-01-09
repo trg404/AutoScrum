@@ -1,4 +1,4 @@
-!# /bin/bash
+#! /bin/bash
 
 CUSTOMER=$(rl --count=1 customers)
 DELIVERABLE=$(rl --count=1 deliverables)
