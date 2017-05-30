@@ -1,5 +1,0 @@
-#! usr/bin/bash
-
-
-trello card create -b 58a74990ca082e192fc2bba2 -l 58a74998b4d369833266e943 -d "$(./story)" -n Story1
-
