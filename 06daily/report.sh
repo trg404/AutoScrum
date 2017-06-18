@@ -2,6 +2,6 @@
 
 # reporting the daily events of the auto scrum team
 
-touch "$(date)".txt
+touch "$(date +%Y-%m-%d)".txt
 
 

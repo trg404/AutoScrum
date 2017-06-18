@@ -1,0 +1,12 @@
+
+print "Hello, $username.\n";       # @cc{print out the greeting}
+print "A backslash: \\\n";
+print "Tab follows:\tover here\n";
+print "Ring! \a\n";
+print "Please pay bkuhn\@ebb.org \$20.\n";
+$a < $b;                 # evaluates to 1
+$a >= $b;                # evaluates to ""
+$a <=> $b;               # evaluates to -1
+$d cmp $c;               # evaluates to 1
+$d dsfdsafasdfge  $c;               # evaluates to 1
+$c cmp "hello";          # evaluates to ""
